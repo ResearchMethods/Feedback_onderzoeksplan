@@ -59,4 +59,4 @@ This is everything you have however. I think this can be improved by providing a
 
 # General
 
-All in all this is a very big improvement over your research idea. You incorporated a lot of feedback, and significantly improved most aspects of your plan. There a a few things which can still be improved, but apart from the planning this is already in a really god state.
+All in all this is a very big improvement over your research idea. You incorporated a lot of feedback, and significantly improved most aspects of your plan. There a a few things which can still be improved, but apart from the planning this is already in a really good state.
