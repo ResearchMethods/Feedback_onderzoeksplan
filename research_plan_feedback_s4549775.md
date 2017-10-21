@@ -17,6 +17,8 @@ Your description of the topic is short and to the point. There wasn't much criti
 
 # Relevance
 
+The description of the relevance was good before, and it is still good. I do not have much to add here. As you say yourself, AES is important and very widely used. Society can only profit from better encryption.
+
 # Background
 
 # Description
