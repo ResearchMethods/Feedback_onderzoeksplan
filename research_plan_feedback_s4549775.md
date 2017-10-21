@@ -58,3 +58,5 @@ This is the only area that still needs significant improvement, in my opinion. Y
 This is everything you have however. I think this can be improved by providing a few paragraphs paraphrasing your planning to underpin the Gantt chart, going into a bit more detail on what the activities mean (like "Analysing results"), and maybe provide some reasoning.
 
 # General
+
+All in all this is a very big improvement over your research idea. You incorporated a lot of feedback, and significantly improved most aspects of your plan. There a a few things which can still be improved, but apart from the planning this is already in a really god state.
