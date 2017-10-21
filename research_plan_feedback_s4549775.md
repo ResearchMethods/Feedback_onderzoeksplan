@@ -13,6 +13,8 @@ geometry: margin=5em
 
 # Introduction
 
+Your description of the topic is short and to the point. There wasn't much critique in the first place, but you incorporated the feedback you got.
+
 # Relevance
 
 # Background
