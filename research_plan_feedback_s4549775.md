@@ -45,8 +45,8 @@ I am by no means an expert in cryptography, but because you provide an easy, cur
 
 Previous research is discussed in sufficient depth, and you are much more specific. The only thing I would still try to improve is your bibliography. You could use some more references, ideally peer reviewed articles.
 
-# Description
+# Method
 
-# Activities
+# Planning
 
 # General
