@@ -39,6 +39,12 @@ The description of the relevance was good before, and it is still good. I do not
 
 # Background
 
+This was the section which you received the most feedback for, and you definitely improved it a lot. Now you actually provide information, instead of just saying "there is lots of information".
+
+I am by no means an expert in cryptography, but because you provide an easy, cursory description of the different rounds, and the steps that are taken during the rounds, I have an idea of what you are going to do now. You were very unspecific before, but know, I have an idea of what you meant by converting the data to the correct format, and what your function needs to do.
+
+Previous research is discussed in sufficient depth, and you are much more specific. The only thing I would still try to improve is your bibliography. You could use some more references, ideally peer reviewed articles.
+
 # Description
 
 # Activities
