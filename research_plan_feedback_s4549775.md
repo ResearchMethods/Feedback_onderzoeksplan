@@ -53,4 +53,8 @@ You make a few claims, that I am sure are true, but you give no reason why, or p
 
 # Planning
 
+This is the only area that still needs significant improvement, in my opinion. Your Gantt chart on the whole seems to be logical and thought through, though I am not convinced that less than a week will be enough to prove the algorithm correct **and** present your results. I am not really sure what you mean by "Make the article great again".
+
+This is everything you have however. I think this can be improved by providing a few paragraphs paraphrasing your planning to underpin the Gantt chart, going into a bit more detail on what the activities mean (like "Analysing results"), and maybe provide some reasoning.
+
 # General
