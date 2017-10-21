@@ -47,6 +47,10 @@ Previous research is discussed in sufficient depth, and you are much more specif
 
 # Method
 
+This section has also been dramatically improved. Now you seem to actually have a plan to validate the security of your solution, and the reader knows what you want to do.
+
+You make a few claims, that I am sure are true, but you give no reason why, or provide any evidence. You got these numbers from somewhere, so why don't you put the reference in your bibliography?
+
 # Planning
 
 # General
