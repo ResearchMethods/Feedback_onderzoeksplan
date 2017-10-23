@@ -1,3 +1,17 @@
 # Jasper Haasdijk
 
 # Dion Scheper
+
+* Topic looks like a modern poem, maybe write a whole sentence (?)
+* Problem description and Relevance are okay
+* Improved: IRMA acronym is explained
+* General: very informal, I do not know if that is bad
+* Theoretical background: last paragraph matches relevance better
+* Improved: actual name of strategy is used
+* Method makes sense
+* Planning should be more precise
+
+	> een aantal maanden
+
+* Gantt chart is missing (?)
+* Bibliography: perfect starting at source 6, pretty bad before
