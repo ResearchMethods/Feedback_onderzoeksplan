@@ -1,5 +1,23 @@
 # Jasper Haasdijk
 
+* What does that mean?
+
+	> What do all these fancy charts mean?
+
+* Relevance section missing
+	* It is actually there, in the background and problem sections
+* Cover theoretical background more
+	* Blockchain
+	* Smart contracts
+* Bibliography is good
+* Do you need to mention literature review?
+* Gantt chart: only finish-to-start used
+	* Does not make sense in many cases
+		* Scheduling
+		* Logically
+		* From description
+* Planning good otherwise
+
 # Dion Scheper
 
 * Topic looks like a modern poem, maybe write a whole sentence (?)
